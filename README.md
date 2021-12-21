@@ -17,7 +17,7 @@
 - Video: The video file to be mosaic
 	- It includes a video clip to cover face with mosaic.
 
-#### Project language
+#### Source code language
 - Python
 
 #### Reference site
