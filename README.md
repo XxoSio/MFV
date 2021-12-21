@@ -1,5 +1,4 @@
-# MFV
-## mosaic the face in the video
+# MFV - mosaic the face in the video
 
 ### A mosaic processing program for all but a specific person by recognizing the face in the video.
 
