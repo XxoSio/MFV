@@ -3,7 +3,7 @@
 
 ### A mosaic processing program for all but a specific person by recognizing the face in the video.
 
-### Sample video.
+#### Sample video.
 <img width="80%" src="https://user-images.githubusercontent.com/37572031/146848665-9d93c54b-293b-4e4a-8625-2b0b7d0cf17c.gif"/>
 
 #### Reference site
