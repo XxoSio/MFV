@@ -17,6 +17,9 @@
 - Video: The video file to be mosaic
 	- It includes a video clip to cover face with mosaic.
 
+#### Project language
+- Python
+
 #### Reference site
 - https://deep-eye.tistory.com/18#google_vignette
 - https://ichi.pro/ko/paisseon-eulo-eolgul-insiggi-mandeulgi-140558761485120
